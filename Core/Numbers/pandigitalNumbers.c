@@ -9,8 +9,6 @@ What is the largest n-digit pandigital prime that exists?
 */
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 
 int myPower(int base, int exp) {
 	int i, g = 1;
