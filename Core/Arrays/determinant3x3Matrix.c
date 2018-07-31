@@ -28,7 +28,7 @@
 	}
  
 	for(i = 0; i < N; i++)
-      determinant = determinant + (a[0][i]*(a[1][(i+1)%3]*a[2][(i+2)%3] - a[1][(i+2)%3]*a[2][(i+1)%3]));
+      		determinant = determinant + (a[0][i]*(a[1][(i+1)%3]*a[2][(i+2)%3] - a[1][(i+2)%3]*a[2][(i+1)%3]));
  
 	printf("Determinant: %d", determinant);
 	return 0;
