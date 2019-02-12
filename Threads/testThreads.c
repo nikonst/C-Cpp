@@ -4,7 +4,7 @@
 #include <unistd.h> 
 #include <pthread.h> 
   
-// A global variable to be changes in threads 
+// A global variable to be changed in threads 
 int g = 0; 
   
 // The function to be executed by all threads 
