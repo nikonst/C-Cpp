@@ -1,0 +1,8 @@
+PI : 3.14159
+Max: 4
+HELLO C++
+10
+Value of __LINE__ : 30
+Value of __FILE__ : preProc.cpp
+Value of __DATE__ : Feb 14 2019
+Value of __TIME__ : 13:55:41
